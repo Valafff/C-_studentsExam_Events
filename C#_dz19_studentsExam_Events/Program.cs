@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Runtime.InteropServices;
 using System.Threading.Tasks;
 
-namespace SimpleProject
+namespace Events_StudentExam
 {
 	public delegate void ExamDelegate(string t);
 	class Student
