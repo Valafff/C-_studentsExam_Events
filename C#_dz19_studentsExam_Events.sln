@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#_dz19_studentsExam_Events", "C#_dz19_studentsExam_Events\C#_dz19_studentsExam_Events.csproj", "{0D6C8136-BB58-40E2-8940-ED574C46456B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D6C8136-BB58-40E2-8940-ED574C46456B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D6C8136-BB58-40E2-8940-ED574C46456B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D6C8136-BB58-40E2-8940-ED574C46456B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D6C8136-BB58-40E2-8940-ED574C46456B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78ABB6D6-5AA1-49D2-BE4D-22C2E3155B97}
+	EndGlobalSection
+EndGlobal
